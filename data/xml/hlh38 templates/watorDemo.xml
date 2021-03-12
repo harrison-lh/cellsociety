@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data game="game">
+  <author>Harrison</author>
+  <description>Simulates a scenario where the shark and fish populations can coexist.
+  </description>
+  <emptycolor>cyan</emptycolor>
+  <emptyratio>0.7</emptyratio>
+  <energyfromeating>3</energyfromeating>
+  <fishcolor>orange</fishcolor>
+  <fishreproduce>4</fishreproduce>
+  <fishsharkratio>0.1</fishsharkratio>
+  <model>wator</model>
+  <numCols>50</numCols>
+  <numRows>50</numRows>
+  <numberofsides>12</numberofsides>
+  <randomseed>101</randomseed>
+  <shape>triangle</shape>
+  <sharkcolor>black</sharkcolor>
+  <sharklives>3</sharklives>
+  <sharkreproduce>4</sharkreproduce>
+  <template>random_one</template>
+  <title>WaTor Simulation</title>
+</data>

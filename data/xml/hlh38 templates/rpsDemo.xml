@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data game="game">
+  <author>Harrison</author>
+  <description></description>
+  <emptycolor>green</emptycolor>
+  <emptyratio>0</emptyratio>
+  <model>rockpaperscissors</model>
+  <numCols>50</numCols>
+  <numRows>50</numRows>
+  <numberofsides>8</numberofsides>
+  <papercolor>white</papercolor>
+  <randomseed>101</randomseed>
+  <rockcolor>black</rockcolor>
+  <rockratio>0.2</rockratio>
+  <scissorscolor>silver</scissorscolor>
+  <scissorsratio>0.3</scissorsratio>
+  <shape>square</shape>
+  <threshhold>2</threshhold>
+  <title>Rock, Paper, Scissors</title>
+</data>

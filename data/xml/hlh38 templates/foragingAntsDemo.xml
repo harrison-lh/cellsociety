@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data game="game">
+  <antcolor>black</antcolor>
+  <author>Harrison</author>
+  <description>Simulates ants collecting food from one closer source and one farther source.</description>
+  <emptycolor>beige</emptycolor>
+  <foodcolor>red</foodcolor>
+  <model>foragingants</model>
+  <movebias>0.97</movebias>
+  <nestcolor>brown</nestcolor>
+  <numCols>50</numCols>
+  <numRows>50</numRows>
+  <numberofants>50</numberofants>
+  <numberofsides>4</numberofsides>
+  <phermoneamount>30</phermoneamount>
+  <phermonecolor>green</phermonecolor>
+  <radius>2</radius>
+  <shape>square</shape>
+  <shapeCoords>30,15,20,30,35,40</shapeCoords>
+  <template>generic</template>
+  <title>Foraging Ants</title>
+  <weakphermonecolor>lightgreen</weakphermonecolor>
+</data>
